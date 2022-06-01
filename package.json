@@ -19,7 +19,7 @@
     "firebase-admin": "^8.6.0",
     "firebase-functions": "^3.2.0",
     "fs-extra": "^8.1.0",
-    "sharp": "^0.20.8",
+    "sharp": "^0.30.5",
     "typescript-require": "^0.2.10"
   },
   "devDependencies": {
